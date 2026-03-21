@@ -1,0 +1,45 @@
+Target Variable,Parameter Tested,Value,5-Fold CV Neg MSE,Test R2,Test MSE,Iterations Needed
+EE%,hidden_layer_sizes,"(50, 25)",-35.9583,0.9567,4.4607,1704
+EE%,hidden_layer_sizes,"(100, 50)",-50.9231,0.9599,4.1329,1991
+EE%,hidden_layer_sizes,"(150, 75)",-34.1137,0.9296,7.2566,1330
+EE%,hidden_layer_sizes,"(100, 100)",-29.7921,0.9331,6.8922,1574
+EE%,hidden_layer_sizes,"(200, 100)",-25.496,0.9278,7.4406,1478
+EE%,hidden_layer_sizes,"(300, 150)",-31.6093,0.9335,6.857,1175
+EE%,activation,relu,-50.9231,0.9599,4.1329,1991
+EE%,activation,tanh,-75.1827,0.9805,2.0062,2620
+EE%,activation,logistic,-77.6484,0.8849,11.8623,4425
+EE%,solver,adam,-50.9231,0.9599,4.1329,1991
+EE%,solver,sgd,-22.6706,0.9248,7.7506,1814
+EE%,solver,lbfgs,-65.479,0.7611,24.6192,204
+EE%,alpha,1e-05,-45.4683,0.9268,7.5464,1909
+EE%,alpha,0.0001,-50.9231,0.9599,4.1329,1991
+EE%,alpha,0.001,-45.2653,0.9499,5.1685,1891
+EE%,alpha,0.01,-39.3944,0.9429,5.8826,1717
+EE%,max_iter,2000,-50.9231,0.9599,4.1329,1991
+EE%,max_iter,4000,-50.9231,0.9599,4.1329,1991
+EE%,max_iter,6000,-50.9231,0.9599,4.1329,1991
+EE%,learning_rate,constant,-22.6706,0.9248,7.7506,1814
+EE%,learning_rate,invscaling,-48.9833,0.9723,2.8553,6000
+EE%,learning_rate,adaptive,-22.7077,0.9247,7.7572,1869
+DLC%,hidden_layer_sizes,"(50, 25)",-15.6377,0.9612,2.4462,1418
+DLC%,hidden_layer_sizes,"(100, 50)",-32.2244,0.9451,3.462,1636
+DLC%,hidden_layer_sizes,"(150, 75)",-21.6627,0.946,3.4039,1150
+DLC%,hidden_layer_sizes,"(100, 100)",-17.0904,0.9504,3.1297,1623
+DLC%,hidden_layer_sizes,"(200, 100)",-12.7232,0.95,3.154,1431
+DLC%,hidden_layer_sizes,"(300, 150)",-14.1936,0.9462,3.3942,1159
+DLC%,activation,relu,-32.2244,0.9451,3.462,1636
+DLC%,activation,tanh,-35.9924,0.9686,1.9781,2657
+DLC%,activation,logistic,-37.9463,0.9026,6.1439,3544
+DLC%,solver,adam,-32.2244,0.9451,3.462,1636
+DLC%,solver,sgd,-11.1133,0.9536,2.9262,1893
+DLC%,solver,lbfgs,-20.6311,0.8742,7.9342,187
+DLC%,alpha,1e-05,-31.6192,0.9467,3.3643,1533
+DLC%,alpha,0.0001,-32.2244,0.9451,3.462,1636
+DLC%,alpha,0.001,-28.3654,0.9655,2.174,2127
+DLC%,alpha,0.01,-24.7555,0.9494,3.189,1817
+DLC%,max_iter,2000,-32.2244,0.9451,3.462,1636
+DLC%,max_iter,4000,-32.2244,0.9451,3.462,1636
+DLC%,max_iter,6000,-32.2244,0.9451,3.462,1636
+DLC%,learning_rate,constant,-11.1133,0.9536,2.9262,1893
+DLC%,learning_rate,invscaling,-29.9369,0.9714,1.8072,6000
+DLC%,learning_rate,adaptive,-11.1326,0.9536,2.9288,1948
