@@ -1,0 +1,13 @@
+Parameter Type,Target Variable,Best config,R2,MSE,Iteration
+Hidden Layers,EE%,"Nodes_(100, 100)",0.8678,14.3225,1688
+Hidden Layers,DLC%,"Nodes_(100, 50)",0.8874,7.6104,1826
+Activation,EE%,Activation_logistic,0.8592,15.2485,5508
+Activation,DLC%,Activation_relu,0.8874,7.6104,1826
+Optimizer,EE%,Optimizer_adam,0.8419,17.1241,2103
+Optimizer,DLC%,Optimizer_adam,0.8874,7.6104,1826
+Alpha,EE%,Alpha_0.001,0.8626,14.886,1914
+Alpha,DLC%,Alpha_0.0001,0.8874,7.6104,1826
+Max Iter,EE%,MaxIter_4000,0.8419,17.1241,2103
+Max Iter,DLC%,MaxIter_2000,0.8874,7.6104,1826
+Learning Rate,EE%,LearningRate_constant,0.8291,18.5136,2687
+Learning Rate,DLC%,LearningRate_constant,0.8453,10.46,3621

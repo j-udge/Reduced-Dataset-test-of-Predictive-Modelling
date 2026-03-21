@@ -1,0 +1,13 @@
+Parameter Type,Target Variable,Best config,Avg R2 (5-Fold),Avg MSE (5-Fold),Avg Iteration
+Hidden Layers,EE%,"Nodes_(100, 100)",0.7561,20.138,1574
+Hidden Layers,DLC%,"Nodes_(100, 100)",0.7906,10.5411,1394
+Activation,EE%,Activation_tanh,0.7155,24.7224,2727
+Activation,DLC%,Activation_relu,0.7702,11.592,1670
+Optimizer,EE%,Optimizer_sgd,0.771,18.6257,2596
+Optimizer,DLC%,Optimizer_sgd,0.8083,9.6565,3051
+Alpha,EE%,Alpha_0.01,0.7845,17.6268,1878
+Alpha,DLC%,Alpha_0.001,0.825,8.5888,1592
+Max Iter,EE%,MaxIter_2000,0.714,24.3432,1819
+Max Iter,DLC%,MaxIter_2000,0.7704,11.5774,1660
+Learning Rate,EE%,LearningRate_adaptive,0.7711,18.6252,2660
+Learning Rate,DLC%,LearningRate_constant,0.8083,9.6565,3051

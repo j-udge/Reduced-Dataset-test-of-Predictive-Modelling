@@ -1,0 +1,753 @@
+========================================================= Best Configurations 100% ============================================================
+
+=== Best Configurations by Hidden Layers ===
+
+Target: EE%
+Best config: Nodes_(300, 150)
+R²: 0.9818
+MSE: 1.4841
+Iterations: 1355
+
+Target: DLC%
+Best config: Nodes_(100, 100)
+R²: 0.9772
+MSE: 1.2091
+Iterations: 1271
+
+=== Best Configurations by Activation ===
+
+Target: EE%
+Best config: Activation_relu
+R²: 0.9738
+MSE: 2.1394
+Iterations: 1693
+
+Target: DLC%
+Best config: Activation_relu
+R²: 0.9695
+MSE: 1.6222
+Iterations: 1630
+
+=== Best Configurations by Optimizer ===
+
+Target: EE%
+Best config: Optimizer_adam
+R²: 0.9738
+MSE: 2.1394
+Iterations: 1693
+
+Target: DLC%
+Best config: Optimizer_adam
+R²: 0.9695
+MSE: 1.6222
+Iterations: 1630
+
+=== Best Configurations by Alpha ===
+
+Target: EE%
+Best config: Alpha_0.01
+R²: 0.9789
+MSE: 1.7262
+Iterations: 1734
+
+Target: DLC%
+Best config: Alpha_0.001
+R²: 0.9723
+MSE: 1.4732
+Iterations: 1625
+
+=== Best Configurations by Max Iter ===
+
+Target: EE%
+Best config: MaxIter_2000
+R²: 0.9738
+MSE: 2.1394
+Iterations: 1693
+
+Target: DLC%
+Best config: MaxIter_2000
+R²: 0.9695
+MSE: 1.6222
+Iterations: 1630
+
+=== Best Configurations by Learning Rate ===
+
+Target: EE%
+Best config: LearningRate_adaptive
+R²: 0.9409
+MSE: 4.8204
+Iterations: 2325
+
+Target: DLC%
+Best config: LearningRate_adaptive
+R²: 0.9623
+MSE: 2.0013
+Iterations: 3010
+
+
+======================================================== Best Configuration 95% ===========================================================
+
+=== Best Configurations by Hidden Layers ===
+
+Target: EE%
+Best config: Nodes_(150, 75)
+R²: 0.7149
+MSE: 39.8436
+Iterations: 1373
+
+Target: DLC%
+Best config: Nodes_(300, 150)
+R²: 0.8139
+MSE: 15.3528
+Iterations: 1090
+
+=== Best Configurations by Activation ===
+
+Target: EE%
+Best config: Activation_tanh
+R²: 0.8914
+MSE: 15.1768
+Iterations: 2518
+
+Target: DLC%
+Best config: Activation_tanh
+R²: 0.9173
+MSE: 6.8225
+Iterations: 2075
+
+=== Best Configurations by Optimizer ===
+
+Target: EE%
+Best config: Optimizer_adam
+R²: 0.6679
+MSE: 46.4238
+Iterations: 1604
+
+Target: DLC%
+Best config: Optimizer_lbfgs
+R²: 0.7627
+MSE: 19.5757
+Iterations: 352
+
+=== Best Configurations by Alpha ===
+
+Target: EE%
+Best config: Alpha_1e-05
+R²: 0.7464
+MSE: 35.4447
+Iterations: 1552
+
+Target: DLC%
+Best config: Alpha_1e-05
+R²: 0.7656
+MSE: 19.3326
+Iterations: 1494
+
+=== Best Configurations by Max Iter ===
+
+Target: EE%
+Best config: MaxIter_2000
+R²: 0.6679
+MSE: 46.4238
+Iterations: 1604
+
+Target: DLC%
+Best config: MaxIter_2000
+R²: 0.7518
+MSE: 20.4723
+Iterations: 1443
+
+=== Best Configurations by Learning Rate ===
+
+Target: EE%
+Best config: LearningRate_adaptive
+R²: 0.5699
+MSE: 60.1146
+Iterations: 1807
+
+Target: DLC%
+Best config: LearningRate_adaptive
+R²: 0.6840
+MSE: 26.0656
+Iterations: 2214
+
+
+
+========================================================Best Configurations 90% ===========================================================
+
+=== Best Configurations by Hidden Layers ===
+
+Target: EE%
+Best config: Nodes_(100, 50)
+R²: 0.9508
+MSE: 4.6834
+Iterations: 1322
+
+Target: DLC%
+Best config: Nodes_(50, 25)
+R²: 0.9140
+MSE: 4.9190
+Iterations: 1695
+
+=== Best Configurations by Activation ===
+
+Target: EE%
+Best config: Activation_relu
+R²: 0.9508
+MSE: 4.6834
+Iterations: 1322
+
+Target: DLC%
+Best config: Activation_relu
+R²: 0.8602
+MSE: 7.9933
+Iterations: 1260
+
+=== Best Configurations by Optimizer ===
+
+Target: EE%
+Best config: Optimizer_adam
+R²: 0.9508
+MSE: 4.6834
+Iterations: 1322
+
+Target: DLC%
+Best config: Optimizer_lbfgs
+R²: 0.8972
+MSE: 5.8788
+Iterations: 226
+
+=== Best Configurations by Alpha ===
+
+Target: EE%
+Best config: Alpha_0.0001
+R²: 0.9508
+MSE: 4.6834
+Iterations: 1322
+
+Target: DLC%
+Best config: Alpha_0.001
+R²: 0.8886
+MSE: 6.3678
+Iterations: 1102
+
+=== Best Configurations by Max Iter ===
+
+Target: EE%
+Best config: MaxIter_2000
+R²: 0.9508
+MSE: 4.6834
+Iterations: 1322
+
+Target: DLC%
+Best config: MaxIter_2000
+R²: 0.8602
+MSE: 7.9933
+Iterations: 1260
+
+=== Best Configurations by Learning Rate ===
+
+Target: EE%
+Best config: LearningRate_constant
+R²: 0.8808
+MSE: 11.3560
+Iterations: 1747
+
+Target: DLC%
+Best config: LearningRate_adaptive
+R²: 0.8127
+MSE: 10.7094
+Iterations: 2038
+
+======================================================Best Configuration 85%================================================================
+=== Best Configurations by Hidden Layers ===
+
+Target: EE%
+Best config: Nodes_(50, 25)
+R²: 0.6117
+MSE: 8.4714
+Iterations: 2474
+
+Target: DLC%
+Best config: Nodes_(300, 150)
+R²: 0.7024
+MSE: 5.1525
+Iterations: 979
+
+=== Best Configurations by Activation ===
+
+Target: EE%
+Best config: Activation_tanh
+R²: -0.2145
+MSE: 26.4979
+Iterations: 1903
+
+Target: DLC%
+Best config: Activation_tanh
+R²: -0.3182
+MSE: 22.8258
+Iterations: 1873
+
+=== Best Configurations by Optimizer ===
+
+Target: EE%
+Best config: Optimizer_lbfgs
+R²: 0.8143
+MSE: 4.0511
+Iterations: 183
+
+Target: DLC%
+Best config: Optimizer_sgd
+R²: 0.7471
+MSE: 4.3796
+Iterations: 1548
+
+=== Best Configurations by Alpha ===
+
+Target: EE%
+Best config: Alpha_1e-05
+R²: -1.3186
+MSE: 50.5877
+Iterations: 1675
+
+Target: DLC%
+Best config: Alpha_0.001
+R²: -0.2509
+MSE: 21.6594
+Iterations: 1254
+
+=== Best Configurations by Max Iter ===
+
+Target: EE%
+Best config: MaxIter_2000
+R²: -4.7952
+MSE: 126.4411
+Iterations: 1610
+
+Target: DLC%
+Best config: MaxIter_2000
+R²: -3.2876
+MSE: 74.2424
+Iterations: 1633
+
+=== Best Configurations by Learning Rate ===
+
+Target: EE%
+Best config: LearningRate_invscaling
+R²: 0.7662
+MSE: 5.1005
+Iterations: 6000
+
+Target: DLC%
+Best config: LearningRate_constant
+R²: 0.7471
+MSE: 4.3796
+Iterations: 1548
+
+=====================================================Best Configurations 80%================================================================
+
+=== Best Configurations by Hidden Layers ===
+
+Target: EE%
+Best config: Nodes_(100, 50)
+R²: 0.4396
+MSE: 13.4295
+Iterations: 1413
+
+Target: DLC%
+Best config: Nodes_(100, 100)
+R²: 0.7690
+MSE: 4.6959
+Iterations: 1169
+
+=== Best Configurations by Activation ===
+
+Target: EE%
+Best config: Activation_relu
+R²: 0.4396
+MSE: 13.4295
+Iterations: 1413
+
+Target: DLC%
+Best config: Activation_tanh
+R²: 0.6482
+MSE: 7.1516
+Iterations: 2250
+
+=== Best Configurations by Optimizer ===
+
+Target: EE%
+Best config: Optimizer_lbfgs
+R²: 0.4906
+MSE: 12.2074
+Iterations: 242
+
+Target: DLC%
+Best config: Optimizer_lbfgs
+R²: 0.7719
+MSE: 4.6374
+Iterations: 171
+
+=== Best Configurations by Alpha ===
+
+Target: EE%
+Best config: Alpha_0.001
+R²: 0.5536
+MSE: 10.6972
+Iterations: 1587
+
+Target: DLC%
+Best config: Alpha_1e-05
+R²: 0.6543
+MSE: 7.0265
+Iterations: 1501
+
+=== Best Configurations by Max Iter ===
+
+Target: EE%
+Best config: MaxIter_2000
+R²: 0.4396
+MSE: 13.4295
+Iterations: 1413
+
+Target: DLC%
+Best config: MaxIter_2000
+R²: 0.5522
+MSE: 9.1021
+Iterations: 1563
+
+=== Best Configurations by Learning Rate ===
+
+Target: EE%
+Best config: LearningRate_invscaling
+R²: 0.2166
+MSE: 18.7749
+Iterations: 6000
+
+Target: DLC%
+Best config: LearningRate_adaptive
+R²: 0.6166
+MSE: 7.7927
+Iterations: 1776
+
+
+%%%%%%%%%%%%%%%%%%%%Results of different models with 100% of the dataset%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Gradient Boosting - EE%
+Train R²: 1.0000
+Test R²: 0.7500
+Train MSE: 0.0025
+Test MSE: 27.0776
+
+Gradient Boosting - DLC%
+Train R²: 1.0000
+Test R²: 0.6275
+Train MSE: 0.0018
+Test MSE: 25.1767
+
+Random Forest - EE%
+Train R²: 0.9142
+Test R²: 0.6042
+Train MSE: 7.1883
+Test MSE: 42.8655
+
+Random Forest - DLC%
+Train R²: 0.9336
+Test R²: 0.5444
+Train MSE: 3.3941
+Test MSE: 30.7947
+
+XGBoost - EE%
+Train R²: 1.0000
+Test R²: 0.7216
+Train MSE: 0.0000
+Test MSE: 30.1502
+
+XGBoost - DLC%
+Train R²: 1.0000
+Test R²: 0.6287
+Train MSE: 0.0000
+Test MSE: 25.0987
+
+SVR - EE%
+Train R²: 0.3022
+Test R²: 0.1375
+Train MSE: 58.4898
+Test MSE: 93.4199
+
+SVR - DLC%
+Train R²: 0.4181
+Test R²: 0.2481
+Train MSE: 29.7425
+Test MSE: 50.8270
+
+MLP - EE%
+Train R²: 0.9999
+Test R²: 0.8419
+Train MSE: 0.0120
+Test MSE: 17.1241
+
+MLP - DLC%
+Train R²: 0.9996
+Test R²: 0.8874
+Train MSE: 0.0186
+Test MSE: 7.6104
+
+%%%%%%%%%%%%%%%%%%%%Results of different models with 95% of the dataset%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Gradient Boosting - EE%
+Train R²: 1.0000
+Test R²: 0.4897
+Train MSE: 0.0005
+Test MSE: 71.3242
+
+Gradient Boosting - DLC%
+Train R²: 1.0000
+Test R²: 0.6258
+Train MSE: 0.0004
+Test MSE: 30.8691
+
+Random Forest - EE%
+Train R²: 0.9464
+Test R²: 0.5628
+Train MSE: 3.8969
+Test MSE: 61.1053
+
+Random Forest - DLC%
+Train R²: 0.9503
+Test R²: 0.6144
+Train MSE: 2.2909
+Test MSE: 31.8026
+
+XGBoost - EE%
+Train R²: 1.0000
+Test R²: 0.6347
+Train MSE: 0.0000
+Test MSE: 51.0671
+
+XGBoost - DLC%
+Train R²: 1.0000
+Test R²: -0.0211
+Train MSE: 0.0000
+Test MSE: 84.2275
+
+SVR - EE%
+Train R²: 0.3032
+Test R²: -0.0016
+Train MSE: 50.6628
+Test MSE: 139.9952
+
+SVR - DLC%
+Train R²: 0.4088
+Test R²: 0.1632
+Train MSE: 27.2318
+Test MSE: 69.0268
+
+MLP - EE%
+Train R²: 0.9997
+Test R²: 0.6679
+Train MSE: 0.0225
+Test MSE: 46.4238
+
+MLP - DLC%
+Train R²: 0.9990
+Test R²: 0.7518
+Train MSE: 0.0463
+Test MSE: 20.4723
+
+%%%%%%%%%%%%%%%%%%%%Results of different models with 90% of the dataset%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Gradient Boosting - EE%
+Train R²: 1.0000
+Test R²: 0.6579
+Train MSE: 0.0005
+Test MSE: 32.5943
+
+Gradient Boosting - DLC%
+Train R²: 1.0000
+Test R²: 0.4995
+Train MSE: 0.0005
+Test MSE: 28.6106
+
+Random Forest - EE%
+Train R²: 0.9262
+Test R²: 0.6126
+Train MSE: 6.2245
+Test MSE: 36.9178
+
+Random Forest - DLC%
+Train R²: 0.9305
+Test R²: 0.6407
+Train MSE: 3.5881
+Test MSE: 20.5428
+
+XGBoost - EE%
+Train R²: 1.0000
+Test R²: 0.6850
+Train MSE: 0.0000
+Test MSE: 30.0180
+
+XGBoost - DLC%
+Train R²: 1.0000
+Test R²: 0.6641
+Train MSE: 0.0000
+Test MSE: 19.2051
+
+SVR - EE%
+Train R²: 0.2903
+Test R²: 0.1768
+Train MSE: 59.8923
+Test MSE: 78.4348
+
+SVR - DLC%
+Train R²: 0.3632
+Test R²: 0.2147
+Train MSE: 32.8867
+Test MSE: 44.8965
+
+MLP - EE%
+Train R²: 0.9989
+Test R²: 0.9508
+Train MSE: 0.0920
+Test MSE: 4.6834
+
+MLP - DLC%
+Train R²: 0.9987
+Test R²: 0.8602
+Train MSE: 0.0646
+Test MSE: 7.9933
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Results for 85% of dataset %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Gradient Boosting - EE%
+Train R²: 1.0000
+Test R²: 0.4196
+Train MSE: 0.0002
+Test MSE: 12.6643
+
+Gradient Boosting - DLC%
+Train R²: 1.0000
+Test R²: 0.2691
+Train MSE: 0.0003
+Test MSE: 12.6553
+
+Random Forest - EE%
+Train R²: 0.8897
+Test R²: -0.4751
+Train MSE: 8.8132
+Test MSE: 32.1842
+
+Random Forest - DLC%
+Train R²: 0.8932
+Test R²: -0.3453
+Train MSE: 5.0153
+Test MSE: 23.2952
+
+XGBoost - EE%
+Train R²: 1.0000
+Test R²: 0.9208
+Train MSE: 0.0000
+Test MSE: 1.7281
+
+XGBoost - DLC%
+Train R²: 1.0000
+Test R²: 0.9221
+Train MSE: 0.0000
+Test MSE: 1.3497
+
+SVR - EE%
+Train R²: 0.2466
+Test R²: -1.7282
+Train MSE: 60.2224
+Test MSE: 59.5246
+
+SVR - DLC%
+Train R²: 0.3194
+Test R²: -1.6123
+Train MSE: 31.9709
+Test MSE: 45.2329
+
+MLP - EE%
+Train R²: 0.9997
+Test R²: -4.7952
+Train MSE: 0.0211
+Test MSE: 126.4411
+
+MLP - DLC%
+Train R²: 0.9996
+Test R²: -3.2876
+Train MSE: 0.0206
+Test MSE: 74.2424
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Results for 80% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Gradient Boosting - EE%
+Train R²: 1.0000
+Test R²: -0.5504
+Train MSE: 0.0003
+Test MSE: 37.1569
+
+Gradient Boosting - DLC%
+Train R²: 1.0000
+Test R²: 0.0899
+Train MSE: 0.0002
+Test MSE: 18.4998
+
+Random Forest - EE%
+Train R²: 0.9310
+Test R²: -1.1613
+Train MSE: 6.2042
+Test MSE: 51.7971
+
+Random Forest - DLC%
+Train R²: 0.9316
+Test R²: -0.3833
+Train MSE: 3.6815
+Test MSE: 28.1171
+
+XGBoost - EE%
+Train R²: 1.0000
+Test R²: -0.1817
+Train MSE: 0.0000
+Test MSE: 28.3213
+
+XGBoost - DLC%
+Train R²: 1.0000
+Test R²: 0.2441
+Train MSE: 0.0000
+Test MSE: 15.3649
+
+SVR - EE%
+Train R²: 0.2922
+Test R²: -0.9822
+Train MSE: 63.6579
+Test MSE: 47.5053
+
+SVR - DLC%
+Train R²: 0.3681
+Test R²: -0.8267
+Train MSE: 34.0297
+Test MSE: 37.1301
+
+MLP - EE%
+Train R²: 0.9998
+Test R²: 0.4396
+Train MSE: 0.0162
+Test MSE: 13.4295
+
+MLP - DLC%
+Train R²: 0.9996
+Test R²: 0.5522
+Train MSE: 0.0213
+Test MSE: 9.1021
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
